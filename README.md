@@ -72,5 +72,5 @@ Sistema embebido de control de acceso físico con autenticación por RFID/NFC, a
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/TU\_USUARIO/smart-lock-iot.git](https://github.com/TU\_USUARIO/smart-lock-iot.git)
+&#x20;  git clone \[https://github.com/thesimom91/smart-lock.git](https://github.com/thesimon91/smart-lock.git)
 
