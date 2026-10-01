@@ -63,6 +63,21 @@ Sistema embebido de control de acceso físico con autenticación por RFID/NFC, a
 \- \*\*GND común\*\* entre ambas placas.
 
 
+## 📸 Demostración y Prototipo
+
+### Arquitectura de Hardware y Componentes
+![Ubicación de componentes](./img/hardware.png)
+
+### Estados del Sistema
+| En espera de tarjeta (Standby) | Acceso Concedido (LED + LCD + Telegram) |
+| :---: | :---: |
+| ![Standby](./img/standby.png) | ![Acceso OK](./img/access_ok.png) |
+
+### Notificaciones y Telemetría en Tiempo Real (Telegram)
+![Registro de accesos en Telegram](./img/telegram.png)
+
+> 📄 **Documentación completa:** Puedes consultar el informe y la presentación del proyecto en https://github.com/thesimon91/smart-lock/blob/main/docs/PRESENTACION_PROYECTO_ROBOTICA.pdf
+
 
 \## 💻 Instalación y Configuración
 
